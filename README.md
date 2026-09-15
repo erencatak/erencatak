@@ -1,6 +1,6 @@
 Merhaba, ben Eren.
 
-Sistem ve BT destek tarafında çalışıyorum — Windows Server, Active Directory, ağ işleri.
+Sistem ve BT destek tarafında çalışıyorum — Windows Server, Active Directory, Sanal Sunucular , Web Sunucu Güvenliği.
 
 Burayı öğrendiklerimi yazdığım bir yer olarak kullanıyorum. Sadece çalışan kısımları değil,
 kurarken takıldığım yerleri de yazıyorum: neyi yanlış yaptığımı, nasıl bulduğumu, sonunda
@@ -16,11 +16,11 @@ tarafını kurdum. Üzerine eklemeye devam ediyorum.
 ## Buradaki projeler
 
 **[windows-ad-helpdesk-lab](https://github.com/erencatak/windows-ad-helpdesk-lab)**
-Lab'ın kendisi. Kurulum adımları, yeni çalışan geldiğinde ne yapıldığını anlatan bir prosedür
-notu, ve takıldığım 11 şeyin çözümü.
+Lab'ın kendisi. Kurulum adımları, yeni çalışan geldiğinde ne yapıldığını anlatan bir ilerleme / prosedür
+notu, ve karşılaştığım 11 sorunun çözümü.
 
 **[Hardening2012R2](https://github.com/erencatak/Hardening2012R2)**
-Windows Server 2012 R2'de güvenlik ayarlarını Linux tarafından uzaktan açıp kapatan bir
+Windows Server 2012 R2'de güvenlik ayarlarını ( Hardening ) Linux tarafından uzaktan açıp kapatan bir
 masaüstü uygulaması. Python ile yazdım.
 
 **[powershell-itops-toolkit](https://github.com/erencatak/powershell-itops-toolkit)**
