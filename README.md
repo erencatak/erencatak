@@ -4,14 +4,11 @@ Sistem ve BT destek tarafında çalışıyorum — Windows Server, Active Direct
 
 Burayı öğrendiklerimi yazdığım bir yer olarak kullanıyorum. Sadece çalışan kısımları değil,
 kurarken takıldığım yerleri de yazıyorum: neyi yanlış yaptığımı, nasıl bulduğumu, sonunda
-neyin işe yaradığını. Sebebi şu — bir sorunu bir kere çözmek yetmiyor, aynısı ikinci kez
-geldiğinde beş dakikada çözülebilsin istiyorum.
+neyin işe yaradığını. 
 
 ## Şu an ne yapıyorum
 
-Kendi kurduğum bir Active Directory lab ortamı var. Azure'da bir domain controller, yerelde
-domain'e bağlı bir Windows 11 makinesi, ikisinin arasında VPN. Şu ana kadar AD, DHCP ve DNS
-tarafını kurdum. Üzerine eklemeye devam ediyorum.
+Kendi kurduğum bir Active Directory lab ortamını geliştirip AI ile entegreli bir AD server yapmaya çalışıyorum. Ayrıca AI ve Security alanlarında çalışmalarımı burada yayınlamaya çalışıyorum . 
 
 ## Buradaki projeler
 
@@ -31,9 +28,9 @@ kullanıcı açan bir tane var, yenilerini yazdıkça ekliyorum.
 Ağdaki cihazları ve açık portları gösteren küçük bir program. 2021'de Python öğrenirken
 yazmıştım.
 
-## Yazdıklarım
+## Yazılarım
 
-SIEM, IDS/IPS ve ağ temelleri üzerine [Medium'da 9 yazı](https://medium.com/@eren.klai2) var.
+SIEM, IDS/IPS, ağ temelleri ve Web Application Security üzerine  : [Medium'da 9 yazı](https://medium.com/@eren.klai2) var.
 
 ---
 
