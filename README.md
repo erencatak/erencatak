@@ -30,7 +30,7 @@ yazmıştım.
 
 ## Yazılarım
 
-SIEM, IDS/IPS, ağ temelleri ve Web Application Security üzerine  : [Medium'da 9 yazı](https://medium.com/@eren.klai2) var.
+SIEM, IDS/IPS, ağ temelleri ve Web Application Security üzerine  : [Medium'da derin yazılara bakar mısın :) ](https://medium.com/@eren.klai2) .
 
 ---
 
